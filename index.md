@@ -26,6 +26,13 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+# Ibrahim Ahmed's First CS193 Homework
+
+## Things I Like About CS193
+- Learning new things
+- Learning more about computers
+- Collaborating with others
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
